@@ -3,6 +3,7 @@
 > **End-to-End AI Software Solutions | AI-Powered eLearning | Enterprise Engineering**
 
 ---
+<img width="1366" height="768" alt="karanji-logo" src="https://github.com/user-attachments/assets/68151b8c-4281-4b6a-a988-f218cfa00b84" />
 
 ## 🚀 About Us
 
@@ -12,7 +13,10 @@ We specialize in delivering **production-ready AI systems** and **next-generatio
 
 Our goal is to **take AI-enabled eLearning and enterprise automation to the next level**.
 
+
 ---
+
+
 
 ## 🧠 What We Do
 
